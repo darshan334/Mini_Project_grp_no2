@@ -1,0 +1,175 @@
+.dna-3656587-1280-1-icon {
+    width: 1440px;
+    position: relative;
+    height: 1056px;
+    object-fit: cover;
+    z-index: 0;
+  }
+  .diabetes-prediction-web {
+    width: 644px;
+    position: absolute;
+    margin: 0 !important;
+    top: calc(50% - 496px);
+    left: calc(50% - 301px);
+    font-size: 45px;
+    display: inline-block;
+    z-index: 1;
+  }
+  .group-child11 {
+    position: absolute;
+    top: calc(50% - 368.5px);
+    left: calc(50% - 278.5px);
+    border-radius: var(--br-mini);
+    background-color: var(--color-gray-200);
+    backdrop-filter: blur(14.2px);
+    border: 1px solid var(--color-gray-100);
+    box-sizing: border-box;
+    width: 557px;
+    height: 737px;
+  }
+  .glucose-level,
+  .number-of-pregnencies {
+    position: absolute;
+    top: calc(50% - 355.5px);
+    left: calc(50% - 263.5px);
+  }
+  .glucose-level {
+    top: calc(50% - 266.5px);
+  }
+  .instance-inner {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-radius: var(--br-7xs);
+    background-color: var(--color-white);
+  }
+  .rectangle-frame,
+  .rectangle-wrapper {
+    position: absolute;
+    top: calc(50% - 329.5px);
+    left: calc(50% - 262.5px);
+    width: 526px;
+    height: 45px;
+  }
+  .rectangle-frame {
+    top: calc(50% - 240.5px);
+  }
+  .blood-pressure-value {
+    position: absolute;
+    top: calc(50% - 177.5px);
+    left: calc(50% - 263.5px);
+  }
+  .rectangle-wrapper1 {
+    position: absolute;
+    top: calc(50% - 151.5px);
+    left: calc(50% - 262.5px);
+    width: 526px;
+    height: 45px;
+  }
+  .skin-thickness-value {
+    position: absolute;
+    top: calc(50% - 88.5px);
+    left: calc(50% - 263.5px);
+  }
+  .rectangle-wrapper2 {
+    position: absolute;
+    top: calc(50% - 62.5px);
+    left: calc(50% - 262.5px);
+    width: 526px;
+    height: 45px;
+  }
+  .insulin-level {
+    position: absolute;
+    top: calc(50% + 0.5px);
+    left: calc(50% - 263.5px);
+  }
+  .rectangle-wrapper3 {
+    position: absolute;
+    top: calc(50% + 26.5px);
+    left: calc(50% - 262.5px);
+    width: 526px;
+    height: 45px;
+  }
+  .bmi-value {
+    position: absolute;
+    top: calc(50% + 89.5px);
+    left: calc(50% - 263.5px);
+  }
+  .rectangle-wrapper4 {
+    position: absolute;
+    top: calc(50% + 115.5px);
+    left: calc(50% - 262.5px);
+    width: 526px;
+    height: 45px;
+  }
+  .diabetes-pedigree-function {
+    position: absolute;
+    top: calc(50% + 178.5px);
+    left: calc(50% - 263.5px);
+  }
+  .rectangle-wrapper5 {
+    position: absolute;
+    top: calc(50% + 204.5px);
+    left: calc(50% - 262.5px);
+    width: 526px;
+    height: 45px;
+  }
+  .age-of-the,
+  .rectangle-wrapper6 {
+    position: absolute;
+    top: calc(50% + 267.5px);
+    left: calc(50% - 262.5px);
+  }
+  .rectangle-wrapper6 {
+    top: calc(50% + 293.5px);
+    width: 526px;
+    height: 45px;
+  }
+  .rectangle-parent11 {
+    width: 557px;
+    position: absolute;
+    margin: 0 !important;
+    top: calc(50% - 412px);
+    left: calc(50% - 301px);
+    height: 737px;
+    z-index: 2;
+    color: var(--color-black);
+  }
+  .check-result {
+    position: relative;
+  }
+  .check-result-wrapper,
+  .desktop-5 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .check-result-wrapper {
+    margin: 0 !important;
+    position: absolute;
+    top: calc(50% + 349px);
+    left: calc(50% - 285px);
+    border-radius: 13px;
+    background-color: rgba(255, 255, 255, 0.21);
+    backdrop-filter: blur(3.4px);
+    border: 2px solid #116ec3;
+    flex-direction: row;
+    padding: var(--padding-3xs);
+    z-index: 3;
+  }
+  .desktop-5 {
+    width: 100%;
+    position: relative;
+    background-color: var(--color-white);
+    overflow: hidden;
+    flex-direction: column;
+    gap: var(--gap-3xs);
+    text-align: left;
+    font-size: var(--font-size-base);
+    color: var(--color-white);
+    font-family: var(--font-inter);
+  }
